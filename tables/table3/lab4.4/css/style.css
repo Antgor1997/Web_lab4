@@ -1,0 +1,36 @@
+table{
+    border-left: 2px solid gray;
+    border-right: 2px solid gray;
+    border-top: 4px solid #67cb71;
+    border-bottom: 4px solid #67cb71;
+    width:20%;
+    border-collapse: collapse;
+}
+th.c1{
+    color: #96d78c;
+    height: 50px;
+}
+th.c2{
+    color: white;
+    background-color: #67cb71;
+    height: 50px;
+}
+td{
+    text-align: center;
+    padding: 10px;
+}
+button{
+    width: 25%;
+    border: 2px solid #67cb71;
+    color: #67cb71;
+    background-color: white;
+    padding: 7px;
+    border-radius: 5px;
+
+}
+tr:nth-child(2n+1){
+    background: #ffffff;
+}
+tr:nth-child(2n){
+    background: #f7f7f7;
+}

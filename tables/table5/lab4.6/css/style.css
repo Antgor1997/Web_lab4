@@ -1,0 +1,34 @@
+table{
+    width: 700px;
+    border: 10px solid #e9ccc4;
+    border-collapse: collapse;
+    background-color: #e9ccc4;
+}
+button{
+    color: white;
+    background-color: #e76653;
+    margin-left: 10%;
+    border: none;
+    height: 50%;
+    width: 55%;
+}
+th.c1{
+    text-align: center;
+    color: white;
+    background-color: #2b3335;
+    border: 2px solid #353a3e;
+}
+th.c2{
+    text-align: center;
+    color: white;
+    background-color: #e76653;
+    border: 2px solid #db5949;
+}
+td{
+    text-align: center;
+    background-color: #ebebeb;
+    border: 2px solid #e0e0e0;
+}
+th, td{
+    height: 50px;
+}

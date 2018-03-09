@@ -1,0 +1,86 @@
+table.c1, table.c2, table.c3{
+    margin: 10px;
+    float: left;
+    width:12%;
+    height:350px;
+    border-collapse: collapse;
+}
+th.c11, th.c21, th.c31{
+    color: white;
+    font-size: 25pt;
+}
+th.c12, th.c22, th.c32{
+    color: white;
+    font-size: 17pt;
+}
+button.c1, button.c2, button.c3{
+    color:white;
+    width: 120px;
+    padding: 15px;
+}
+td.c1, td.c2, td.c3{
+    height: 80px;
+}
+
+table.c1{
+    border-left: 3px solid #a4c0ba;
+    border-right: 3px solid #a4c0ba;
+    border-top: 3px solid #a4c0ba;
+    border-bottom: 10px solid #17937a;
+
+}
+th.c11{
+    background-color: #16a086;
+}
+th.c12{
+    background-color: #16a086;
+}
+button.c1{
+    background-color: #16a086;
+}
+
+
+table.c2{
+    border-left: 3px solid #c3baa1;
+    border-right: 3px solid #c3baa1;
+    border-top: 3px solid #c3baa1;
+    border-bottom: 10px solid #c88014;
+
+}
+th.c21{
+    background-color: #f39c11;
+}
+th.c22{
+    background-color: #f39c11;
+}
+button.c2{
+    background-color: #f39c11;
+}
+
+
+
+
+table.c3{
+    border-left: 3px solid #c9b8b5;
+    border-right: 3px solid #c9b8b5;
+    border-top: 3px solid #c9b8b5;
+    border-bottom: 10px solid #9e3329;
+
+}
+th.c31{
+    background-color: #c1392b;
+}
+th.c32{
+    background-color: #c1392b;
+}
+button.c3{
+    background-color: #c1392b;
+}
+
+td, th, button{
+    text-align: center;
+}
+hr{
+    border-bottom-style: dashed;
+    width: 90%;
+}

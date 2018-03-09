@@ -1,0 +1,22 @@
+table{
+    width: 600px;
+    border-collapse: collapse;
+}
+th, td{
+    border: solid black;
+}
+td{
+    text-align: left;
+}
+th{
+    background: #82b521;
+    color: white;
+    text-align: center;
+}
+td:nth-child(2n+1){
+   background: #effdd5;
+}
+td:nth-child(2n){
+    background: #e5ffb9;
+}
+

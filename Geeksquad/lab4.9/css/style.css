@@ -1,0 +1,36 @@
+.back{
+    width: 100%;
+}
+img.img1{
+    z-index:1;
+    float: left;
+    width: 10%;
+}
+img.img2{
+    position: absolute;
+    top: 50px;
+    z-index:2;
+    width: 70%;
+    height: 90px;
+    margin-left: 15%;
+}
+nav{
+    margin-left: 260px;
+}
+.punkt, .punkt1{
+    float: left;
+    margin-left: 42px;
+    font-size: 25px;
+}
+.punkt1{
+    background-color: #d3dfe5;
+}
+hr{
+    border:none;
+    color: #d3dfe5;
+    background-color: #d3dfe5;
+    height: 2px;
+    margin-left:42px;
+    margin-bottom: 28px;
+    width: 1340px;
+}

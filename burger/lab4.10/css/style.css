@@ -1,0 +1,103 @@
+.parent{
+    width: 100%;
+    height: 850px;
+    background-color: #483b33;
+}
+.left{
+    position: absolute;
+    top: 5%;
+    left: 6%;
+    width: 30%;
+    height: 70%;
+    background-image: url(http://simply-delicious-food.com/wp-content/uploads/2016/08/Hash-brown-cheeseburgers-3.jpg);
+}
+.right{
+    position: absolute;
+    top:5%;
+    left: 35%;
+    width: 60%;
+    height: 70%;
+    background-color: white;
+}
+button{
+    color: white;
+    background-color: black;
+    width: 10%;
+    height: 7%;
+    font-size: 19px;
+    position: absolute;
+    top: 77%;
+    left: 85%;
+    border: 0;
+}
+.maininfo{
+    background-color: black;
+    color:white;
+    height: 40%;
+    margin-top: 60%;
+
+}
+.rightblock{
+    width: 35%;
+    float: left;
+    margin-left: 10%;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 5%;
+    margin-bottom: 6%;
+}
+.p1{
+    margin-bottom: 0;
+    font-size: 30px;
+}
+.p2{
+    margin-top: 0;
+    font-size: 25px;
+    color: gray;
+}
+.mip{
+    position: absolute;
+    top: 55%;
+    width: 550px;
+}
+.mip11{
+    font-size: 50px;
+    margin-top: 10%;
+}
+.mip1{
+    margin: 0;
+    padding: 0;
+    font-size: 50px;
+}
+.mip2{
+    color: white;
+    text-align: center;
+    float: right;
+    margin-right: 200px;
+    font-size: 19px;
+}
+.text{
+    color: #dabb68;
+    text-align: center;
+    float: left;
+    margin-left: 200px;
+    font-size: 19px;
+}
+.d19 {
+    width: 0; height: 0;
+    border: 15px solid transparent;
+    border-bottom-color: lightgray;
+    position: relative; top: -40px; left: 180px;}
+.d19:after {
+    content: "";
+    width: 0; height: 0;
+    position: absolute; left: -15px; top: 15px;
+    border: 15px solid transparent;
+    border-top-color: lightgrey;}
+hr{
+    border: none;
+    height: 2px;
+    background-color: lightgray;
+}

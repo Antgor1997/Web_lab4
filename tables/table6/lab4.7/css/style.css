@@ -1,0 +1,26 @@
+table{
+
+}
+th,td{
+    text-align: center;
+    height: 50px;
+}
+th.c1{
+    background-color: #87c140;
+    color: white;
+    width: 150px;
+}
+th.c2{
+    background-color: #ffffff;
+}
+td.c1{
+    background-color: #dff2cc;
+}
+td.c2{
+    color: #a6b672;
+    font-size: 25pt;;
+}
+i{
+    font-size: 40px;
+    color: #a6b672;
+}
